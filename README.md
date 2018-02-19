@@ -1,3 +1,9 @@
+# Let's move
+
+Let's Move is an online property portal specialising in East London. Let's create a database for it.
+
+Run the script below as your user to create the new database
+
 ```
 CREATE DATABASE letsmove;
 ```
