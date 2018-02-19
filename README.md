@@ -98,7 +98,6 @@ SELECT
 * Select all properties in Angel
 * Select all properties listed by Duckworth in Dalston
 * Select all unsold properties
-* Select all properties listed by an agent which has
 * Select all properties ordered by price
 * Select cheapest 5 properties
 * Select all estate agents listed in table. Each row should be unique
