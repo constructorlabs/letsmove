@@ -89,7 +89,7 @@ INSERT INTO properties
 VALUES('garage', 0, 0, 'Badgers', 'Homerton', 120000, '2017-02-20', 100000);
 ```
 
-Exercises
+## Exercises
 
 SELECT
 
@@ -132,6 +132,5 @@ DELETE
 
 Stretch goals
 
-* How many properties were sold in each month of 2017
 * What is the average sales discount per estate agent
 * What is the average sales price per bedroom in Angel
